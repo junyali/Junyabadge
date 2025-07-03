@@ -1,6 +1,6 @@
 ---
 title: "Junyabadge"
-author: "Junya"
+author: "junyali"
 description: "A credit card-sized hacker badge with an NFC chip to transmit my 'profile' and light up some LEDs"
 created_at: "2025-07-02"
 ---
