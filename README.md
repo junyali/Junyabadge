@@ -23,6 +23,6 @@ PCB designed in EasyEDA Pro (first time using it :p).
 | KT-0805G               | 1        | 0.0016             | 0.0016            | C2297         | https://lcsc.com/product-detail/LED-Indication-Discrete_Hubei-KENTO-Elec-KT-0805G_C2297.html                                     |
 | 0603WAF1500T5E         | 3        | 0.0002             | 0.0002            | C22808        | https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1500T5E_C22808.html                   |
 | NT3H2111W0FHKH         | 1        | 0.1233             | 0.1233            | C710403       | https://lcsc.com/product-detail/RFID-ICs_NXP-Semicon-NT3H2111W0FHKH_C710403.html                                                 |
-| PCB Assembled (JLCPCB) | 5        | 21.26              | 21.26             | N/A           | https://jlcpcb.com                                                                                                               |
+| PCB Assembled (JLCPCB) | 5        | 24.80              | 24.80             | N/A           | https://jlcpcb.com                                                                                                               |
 
 *Note: Final price is US$21.26*
